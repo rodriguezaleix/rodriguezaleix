@@ -38,11 +38,11 @@ Me encanta crear interfaces que no solo funcionen bien, sino que también sean v
 
 **📊 Estadísticas de GitHub:**
 
-![Estadísticas](https://github-readme-stats.vercel.app/api?username=rodriguezalek&show_icons=true&theme=dark)
+![Estadísticas](https://github-readme-stats.vercel.app/api?username=rodriguezaleix&show_icons=true&theme=dark)
 
 **💻 Lenguajes más usados:**
 
-![Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=rodriguezalek&layout=compact&theme=dark)
+![Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=rodriguezaleix&layout=compact&theme=dark)
 
 ---
 
