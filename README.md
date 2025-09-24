@@ -27,7 +27,7 @@ Soy estudiante de **Desarrollo de Aplicaciones Web (DAW)** y lo que más me gust
 
 ### 📫 ¿Dónde encontrarme?
 
-- **GitHub:** [rodriguezalek](https://github.com/rodriguezaleix)
+- **GitHub:** [rodriguezaleix](https://github.com/rodriguezaleix)
 - **Email:** rodriguezaleix06@email.com
 
 ### ⚡ Dato curioso
